@@ -1,0 +1,9 @@
+Dagoberto Rojas Juárez
+2015127575
+
+Sun Aug  7 23:47:09 CST 2022
+void
+Ubuntu 20.04.4 LTS
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+void       102  0.0  0.0  10044  5096 pts/2    Ss   22:48   0:00 -bash
+void       124  0.0  0.0  10856  3352 pts/2    R+   23:47   0:00 ps -ux
